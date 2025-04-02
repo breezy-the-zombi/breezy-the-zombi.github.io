@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "breezysecretconner",
+    "description": "",
+    "home_page_url": "https://breezy-the-zombi.github.io/breezy-the-zombi.github.io",
+    "feed_url": "https://breezy-the-zombi.github.io/breezy-the-zombi.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Breezy"
+    },
+    "items": [
+        {
+            "id": "https://breezy-the-zombi.github.io/breezy-the-zombi.github.io/first-post-thoughts-and-more.html",
+            "url": "https://breezy-the-zombi.github.io/breezy-the-zombi.github.io/first-post-thoughts-and-more.html",
+            "title": "First Post; Thoughts and More",
+            "summary": "Intro Welcome to my very first blog post! I’ve always wanted a blog because it seems like a great way to share my thoughts and feelings. In my daily life, I don’t talk much, so having a space to express all my random ideas feels&hellip;",
+            "content_html": "<h1>Intro</h1>\n<p>Welcome to my very first blog post! I’ve always wanted a blog because it seems like a great way to share my thoughts and feelings.<br><br>In my daily life, I don’t talk much, so having a space to express all my random ideas feels awesome.<br><br>I’m not aiming for perfection in my posts; I just want to share whatever I find interesting or the random thoughts I have. Sometimes, I’ll even talk about the characters I create.<br><br>So, don’t expect everything to be super organized or follow a specific format—it's all a bit of a jumble!<br><br>Let’s dive into today’s thoughts:</p>\n<h3>Manhwa Harems</h3>\n<p> </p>\n<p>I really dislike when men write harem stories. They always use the same type of female character with just a few different personalities:<br><br>- Cute and bubbly.<br>- Sassy but also cute.<br>- Distant but blushes at everything the main character says.<br>- Young-looking or “loli.”<br><br>They all look pretty much the same, just with different colors, and it drives me crazy!<br><br>As soon as I see a manhwa with a bunch of female characters without a clear main lead, I can’t handle it and stop reading.<br><br>Right now, I’m checking out a new one that’s really great—the main character is interesting, and the world-building is amazing. But… it’s a harem story, and a frustrating kind at that. The girls are constantly competing for this guy who seems completely uninterested, and it’s like he doesn’t even pick up on their hints. I’m trying to enjoy it because I love everything else about it, but when the author starts to focus on the romance, it ruins it for me. <br><br>I might look for the novel version because sometimes authors change things in the comic to make it easier to read and draw. Maybe the novel will focus more on the story and less on the romance. I don't know, but if I have to see one more girl who’s obsessed with this guy and makes her entire life revolve around him, I’m going to lose it!</p>",
+            "author": {
+                "name": "Breezy"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-04-02T16:54:27-03:00",
+            "date_modified": "2025-04-02T16:54:48-03:00"
+        }
+    ]
+}

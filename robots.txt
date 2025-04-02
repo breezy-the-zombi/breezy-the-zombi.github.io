@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://breezy-the-zombi.github.io/breezy-the-zombi.github.io/sitemap.xml
